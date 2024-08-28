@@ -9,4 +9,4 @@ Calm is your go-to web-based application for online therapy and counseling. In t
 - 💳 Flexible Payment Methods: Enjoy various payment options that make accessing mental health services easier and more convenient for everyone.
 
 <b>Technology Used</b>
-The Calm application is designed using Figma, focusing on creating a user-friendly prototype. Our work emphasizes the implementation of effective design concepts for a good user interface, ensuring that users can navigate the platform easily and intuitively. 
+- The Calm application is designed using Figma, focusing on creating a user-friendly prototype. Our work emphasizes the implementation of effective design concepts for a good user interface, ensuring that users can navigate the platform easily and intuitively. 
